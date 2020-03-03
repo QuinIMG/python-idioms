@@ -1,24 +1,26 @@
-# slices
+## slices
 
-# chained operators e.g. x < y < z
+## chained operators e.g. x < y < z
 
-# unpacking
+## unpacking
     # ignore variable '_'
     # use for swapping values w/o creating a temp
 
-# the 'in' keyword: sets vs. lists
+## enumerate over index variables
 
-# comprehensions and generators
+## the 'in' keyword: sets vs. lists
+
+## comprehensions and generators
     # filter with clauses
 
-# 'is' vs '=='
+## 'is' vs '=='
 
-# 'with' keyword for better IO
+## 'with' keyword for better IO
 
-# line continuations
+## line continuations
 
-# string formatting (% vs .format vs f strings)
+## string formatting (% vs .format vs f strings)
 
-# Set operations
+## Set operations
 
-# *BONUS TOPIC: type hints
+## *BONUS TOPIC: type hints
