@@ -1,4 +1,0 @@
-[1](https://stackoverflow.com/questions/302459/what-is-a-programming-idiom)
-https://docs.python-guide.org/writing/style/
-https://medium.com/the-andela-way/idiomatic-python-coding-the-smart-way-cc560fa5f1d6
-https://docs.python.org/2/howto/doanddont.html#using-backslash-to-continue-statements
